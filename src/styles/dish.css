@@ -1,0 +1,83 @@
+body {
+  background-color: #282b34a6;
+}
+h1 {
+  text-align: center;
+  font-size: 2em;
+}
+.card {
+  border-radius: 5px;
+  margin: 20px !important;
+  background-color: #3f51b54d !important;
+}
+.titulo {
+  color: white !important;
+  font-size: 20px !important;
+}
+.dish ul li {
+  list-style: none;
+}
+.dish-form-icon {
+  margin-top: 18px !important;
+  margin-left: 10px !important;
+}
+.lista {
+  padding-right: 50px;
+  text-align: left;
+}
+/*Country */
+.list {
+  margin-bottom: 5px;
+  list-style: none;
+  font-size: 20px !important;
+}
+.list .tash {
+  color: #ff000094;
+}
+/* Not Found*/
+
+.mainbox {
+  margin: auto;
+  height: 600px;
+  width: 600px;
+  position: relative;
+}
+
+.err {
+  color: #ffffff;
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 11rem;
+  position: absolute;
+  left: 20%;
+  top: 8%;
+}
+
+.far {
+  position: absolute;
+  font-size: 8.5rem;
+  left: 42%;
+  top: 15%;
+  color: #ffffff;
+}
+
+.err2 {
+  color: #ffffff;
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 11rem;
+  position: absolute;
+  left: 68%;
+  top: 8%;
+}
+
+.msg {
+  text-align: center;
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 1.6rem;
+  position: absolute;
+  left: 16%;
+  top: 45%;
+  width: 75%;
+}
+a {
+  color: white;
+}

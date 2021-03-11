@@ -1,0 +1,65 @@
+{
+    "dishes": [
+        {
+            "id": "1",
+            "name": "Bandeja paisa",
+            "country": "Colombia",
+            "ingredients": [
+                "Arroz blanco",
+                "Plátano maduro",
+                "Frijoles",
+                "Chicharrón",
+                "Chorizo",
+                "Arepa",
+                "Huevo frito"
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Paella",
+            "country": "España",
+            "ingredients": [
+                "Arroz",
+                "Azafrán",
+                "Tomate",
+                "Mariscos",
+                "Ajo",
+                "Aceite"
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Tacos",
+            "country": "México",
+            "ingredients": [
+                "Tortilla",
+                "Carne",
+                "Cebolla",
+                "Cilantro",
+                "Salsa picante"
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Anticuchos",
+            "country": "Perú",
+            "ingredients": [
+                "Carne",
+                "Papa",
+                "Salsa",
+                "Papas"
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Gallo pinto",
+            "country": "Costa Rica",
+            "ingredients": [
+                "Frijoles",
+                "Arroz",
+                "Carne"
+            ]
+        }
+
+    ]
+}

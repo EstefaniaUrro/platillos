@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/platillos/static/css/main.69133361.chunk.css",
+    "main.js": "/platillos/static/js/main.853a6ec1.chunk.js",
+    "main.js.map": "/platillos/static/js/main.853a6ec1.chunk.js.map",
+    "runtime-main.js": "/platillos/static/js/runtime-main.a5453022.js",
+    "runtime-main.js.map": "/platillos/static/js/runtime-main.a5453022.js.map",
+    "static/js/2.3266f783.chunk.js": "/platillos/static/js/2.3266f783.chunk.js",
+    "static/js/2.3266f783.chunk.js.map": "/platillos/static/js/2.3266f783.chunk.js.map",
+    "static/js/3.899ce093.chunk.js": "/platillos/static/js/3.899ce093.chunk.js",
+    "static/js/3.899ce093.chunk.js.map": "/platillos/static/js/3.899ce093.chunk.js.map",
+    "index.html": "/platillos/index.html",
+    "static/css/main.69133361.chunk.css.map": "/platillos/static/css/main.69133361.chunk.css.map",
+    "static/js/2.3266f783.chunk.js.LICENSE.txt": "/platillos/static/js/2.3266f783.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5453022.js",
+    "static/js/2.3266f783.chunk.js",
+    "static/css/main.69133361.chunk.css",
+    "static/js/main.853a6ec1.chunk.js"
+  ]
+}
